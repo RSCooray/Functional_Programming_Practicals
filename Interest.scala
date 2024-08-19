@@ -1,3 +1,4 @@
+// Q01
 object Interest extends App {
 
   println("Enter a deposit amount:") // Get deposit amount as an input

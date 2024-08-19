@@ -1,3 +1,4 @@
+// Q03
 object NameFormatter extends App {
 
   // Uppercase method
